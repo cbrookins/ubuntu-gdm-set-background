@@ -1,6 +1,6 @@
 ### Note:
 This script is **only** for Ubuntu **20.04**  
-For Ubuntu 22.04 and above, support migrated to [gdm-extension](https://github.com/PRATAP-KUMAR/gdm-extension).
+For Ubuntu 22.04 and above, support migrated to [gdm-extension](https://github.com/pratap-panabaka/gse-gdm-extension).
 
 ### Installation
 ```
